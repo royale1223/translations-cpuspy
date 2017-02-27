@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<declare-styleable name="TintableImageView">
+    <attr name="tint" format="reference|color"/>
+</declare-styleable>
+
+<declare-styleable name="DualTextView">
+    <attr name="headingText" format="string" />
+    <attr name="contentText" format="string" />
+    <attr name="isHeadingIndented" format="boolean" />
+    <attr name="compactWidth" format="boolean" />
+</declare-styleable>
+
+<declare-styleable name="CustomTheme">
+    <attr name="navItemTextColor" format="color"/>
+    <attr name="navItemIconTint" format="color"/>
+    <attr name="swipeRefreshBackground" format="color"/>
+</declare-styleable>
+</resources>

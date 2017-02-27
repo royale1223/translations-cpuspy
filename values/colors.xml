@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+
+    <color name="icon_enabled">#FFFFFFFF</color>
+    <color name="icon_disabled">#91a7ff</color>
+
+    <color name="off_white">#b3ffffff</color>
+    <color name="off_black">#8a000000</color>
+    <color name="accent_translucent">#80009688</color>
+    <color name="checked_nav_item">@color/material_pink_400</color>
+
+    <color name="circle_bg_light">#fffafafa</color>
+    <color name="circle_bg_dark">#ff2f2f2f</color>
+
+    <color name="secondary_text_default_dark">#b3ffffff</color>
+    <color name="secondary_text_default_light">#8a000000</color>
+    <color name="primary_text_default_dark">#ffffffff</color>
+    <color name="primary_text_default_light">#de000000</color>
+
+    <integer-array name="custom_tab_colors">
+        <item>@color/material_light_blue_500</item>
+        <item>@color/material_cyan_500</item>
+        <item>@color/material_teal_500</item>
+        <item>@color/material_green_500</item>
+        <item>@color/material_light_green_500</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <drawable name="nav_item_background_drawable">@color/transparent</drawable>
+</resources>

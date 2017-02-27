@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name" translatable="false">CPU Spy</string>
+    <string name="app_name_full" translatable="false">CPU Spy Reloaded</string>
+
+    <string name="pie">Pie Chart</string>
+    <string name="bar">Bar Chart</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_about">About</string>
+    <string name="developer">
+        Developed by Binoy Babu\nVibhinna Inc.\n\nTranslated by
+        \nDumF0rGaming (Russian), Nicola Corona (Italian), Michelle Pacheco (Spanish),
+        Chamelleon (Polish), Jervânio Lima (Brazil), David Boca (Croatian), Ibrahim Gla (Arabic),
+        Marc Napitupulu (German), Emma (Hungarian), bthefirst (Dutch), qer509 (Slovak),
+        Helluuu (Swedish), Trung Nhân (Vietnamese), begeek.ir (Persian), Alkis Tardani (Greek),
+        Jean-Francois Messier (French), StormBR (Chinese), Carlos Treyarch (Spanish),
+        İlhan Erkan Büyükakın (Turkish), LorkScorguar (French), F4uzan (Indonesian),
+        ayankga (Indonesian), Chanhee Lee (Korean), Ehsan Black (Persian), fviccia (Spanish),
+        Adarsh M.R (Kannada), Takehito Fujii (Japanese), Sədi Məmmədov (Azerbaijani)
+    </string>
+    <string name="action_reset">Reset timers</string>
+    <string name="action_restore">Restore timers</string>
+    <string name="time_since">%1$s\nsince %2$s</string>
+    <string name="reset_failed">Reset failed!</string>
+    <string name="reset">reset</string>
+    <string name="boot">boot</string>
+    <string name="restore_failed">Restore failed!</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="licenses">Licenses</string>
+    <string name="key_enable_light_theme" translatable="false">key_enable_light_theme</string>
+    <string name="key_show_bar_first" translatable="false">key_show_bar_first</string>
+    <string name="key_use_fahrenheit" translatable="false">key_use_fahrenheit</string>
+    <string name="key_licenses" translatable="false">key_licenses</string>
+    <string name="key_about" translatable="false">key_about</string>
+    <string name="key_rate_us" translatable="false">key_rate_us</string>
+    <string name="key_tanslate" translatable="false">key_translate</string>
+    <string name="key_send_bug_report" translatable="false">key_send_bug_report</string>
+    <string name="select_light_theme">Enable Light theme</string>
+    <string name="select_theme_summary">Enable Light theme instead of the default Dark theme (PRO only).</string>
+    <string name="licenses_summary">Open source licenses used in the app.</string>
+    <string name="rate_us_summary">Rate us on the Play Store.</string>
+    <string name="other">Other</string>
+    <string name="interface_settings">Interface</string>
+    <string name="title_settings">Settings</string>
+    <string name="about_summary">About  the application</string>
+    <string name="version">Version - %1$s</string>
+    <string name="na">n/a</string>
+    <string name="go_pro">Go Pro!</string>
+    <string name="cancel">Cancel</string>
+    <string name="go_pro_query">This feature is only available in the Pro version of the app. Do you want to go to the Play Store to purchase the Pro version?</string>
+    <string name="light_theme">Light Theme</string>
+
+    <string-array name="themes">
+        <item>Dark theme</item>
+        <item>Light theme</item>
+    </string-array>
+
+    <string-array name="theme_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string name="architecture">Architecture</string>
+    <string name="abi">ABI</string>
+    <string name="cpu_cores">Cores</string>
+    <string name="temp">Temperature</string>
+    <string name="freq">Clock Speed</string>
+    <string name="governor">Governor</string>
+    <string name="features">Features</string>
+    <string name="info">Info</string>
+    <string name="cpu">CPU</string>
+    <string name="device">Device</string>
+    <string name="model">Model</string>
+    <string name="board">Board</string>
+    <string name="platform">Platform</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="build_id">Build ID</string>
+    <string name="api">Android API</string>
+    <string name="bootloader">Bootloader</string>
+    <string name="kernel">Kernel</string>
+    <string name="gpu">GPU</string>
+    <string name="gpu_freq">Clock Speed</string>
+    <string name="vendor">Vendor</string>
+    <string name="renderer">Renderer</string>
+    <string name="glversion">GL Version</string>
+    <string name="cpu0">Core 0</string>
+    <string name="cpu1">Core 1</string>
+    <string name="cpu2">Core 2</string>
+    <string name="cpu3">Core 3</string>
+    <string name="cpu4">Core 4</string>
+    <string name="cpu5">Core 5</string>
+    <string name="cpu6">Core 6</string>
+    <string name="cpu7">Core 7</string>
+    <string name="core_offline">Offline</string>
+    <string name="unknown">Unknown</string>
+    <string name="deep_sleep">Deep Sleep</string>
+    <string name="suffix_mhz" translatable="false">\u0020MHz</string>
+    <string name="time_in_freq">Time in state</string>
+    <string name="unable_to_read_cpu_info">Unable to read CPU information!</string>
+    <string name="others">Others</string>
+    <string name="show_bar_first">Show bar chart first</string>
+    <string name="show_bar_first_summary">Show detailed bar chart first instead of the pie chart.</string>
+    <string name="restart_app_needed">You will need to restart the app for these changes to take effect.</string>
+    <string name="unused_states">Unused states :\u0020</string>
+    <string name="none">None</string>
+    <string name="send_bug_report">Send bug report</string>
+    <string name="send_bug_report_summary">Is your device information incorrect or incomplete? Send an email bug report to the developer.</string>
+    <string name="email_subject" translatable="false">[BUG REPORT] CPU Spy Reloaded</string>
+    <string name="email_text" translatable="false">I have encountered the following issues in the app : </string>
+    <string name="translate">Translate this Application</string>
+    <string name="translate_summary">Resources for users who want to translate this application into their native language.</string>
+    <string name="battery">Battery</string>
+    <string name="level">Level</string>
+    <string name="voltage">Voltage</string>
+    <string name="technology">Technology</string>
+    <string name="charging">Charging</string>
+    <string name="discharging">Discharging</string>
+    <string name="not_charging">Not charging</string>
+    <string name="full">Full</string>
+    <string name="good">Good</string>
+    <string name="overheat">Overheat</string>
+    <string name="dead">Dead</string>
+    <string name="over_voltage">Over voltage</string>
+    <string name="unsp_failure">Unspecified failure</string>
+    <string name="health">Health</string>
+    <string name="status">Status</string>
+    <string name="anonymous_data">I hereby acknowledge that the data given below was collected from my device with my permission. By sending this email, I am agreeing to share this data with Vibhinna Inc.</string>
+    <string name="ac">\u0020(AC)</string>
+    <string name="usb">\u0020(USB)</string>
+    <string name="use_fahrenheit">Use Fahrenheit</string>
+    <string name="use_fahrenheit_summary">Use Fahrenheit as the temperature unit instead of Celsius.</string>
+    <string name="freq_mhz_text">%1$d MHz</string>
+    <string name="temp_degree_text">%1$s °%2$s</string>
+    <string name="volt_text">%1$s V</string>
+    <string name="percent_text">%1$d %%</string>
+    <string name="wake_ups_and_running">%1$d wake ups, running %2$s</string>
+    <string name="wake_locks">Wake Locks</string>
+    <string name="root_needed">Your device needs to be rooted to view wake lock statistics.</string>
+    <string name="cf_root_needed">SELinux enforcing! Your device needs to be rooted with ChainFire SuperSu to view wake lock statistics.</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="empty">Unable to find any wakelock information! Please make sure that the application has root permissions. Additionally you can also try setting SELinux to Permissive mode.</string>
+    <string name="details">Details</string>
+    <string name="gms_safe">Even though the Google Play Services package might appear at the top of the wake lock stats, it saves a lot of power through Google Cloud Messaging service. This is the service through which most of your push notifications and instant messages pass through. So this package is supposed to trigger many wake locks.</string>
+    <string name="okay">Okay</string>
+    <string name="issues_hint">Enter the issues that you are experiencing with the app.</string>
+    <string name="bug_report">Bug Report</string>
+    <string name="send">Send</string>
+    <string name="generating_report">Generating bug report..</string>
+    <string name="help">Help</string>
+    <string name="purchase_failed">Purchase failed: %1$s; Response: %2$d</string>
+    <string name="pro_active">PRO features are now active.</string>
+    <string name="key_reset_on_battery_full" translatable="false">key_reset_on_battery_full</string>
+    <string name="reset_on_battery_full">Reset timers when battery full</string>
+    <string name="reset_on_battery_full_summary">Resets CPU state stats when battery is full if enabled (PRO only).</string>
+    <string translatable="false" name="big_little">big.LITTLE</string>
+    <string name="detected">Detected</string>
+    <string name="not_detected">Not detected</string>
+</resources>
